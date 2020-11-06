@@ -2,25 +2,3 @@
 
 192.168.12.222 ansible_ssh_pass=ansible ansible_ssh_user=ansible
 192.168.12.223 ansible_ssh_pass=ansible ansible_ssh_user=ansible
-
-[QA]
-
-192.168.12.224 ansible_ssh_pass=ansible ansible_ssh_user=ansible
-192.168.12.225 ansible_ssh_pass=ansible ansible_ssh_user=ansible
-
-[UAT]
-
-192.168.12.226 ansible_ssh_pass=ansible ansible_ssh_user=ansible
-192.168.12.227 ansible_ssh_pass=ansible ansible_ssh_user=ansible
-
-[PRE_PROD]
-
-192.168.12.228 ansible_ssh_pass=ansible ansible_ssh_user=ansible
-192.168.12.229 ansible_ssh_pass=ansible ansible_ssh_user=ansible
-
-[PROD]
-
-192.168.12.230 ansible_ssh_pass=ansible ansible_ssh_user=ansible
-192.168.12.231 ansible_ssh_pass=ansible ansible_ssh_user=ansible
-192.168.12.232 ansible_ssh_pass=ansible ansible_ssh_user=ansible
-192.168.12.233 ansible_ssh_pass=ansible ansible_ssh_user=ansible
